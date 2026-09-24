@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("online_shoppers_intention.csv")
+df = pd.read_csv("dataset/online_shoppers_intention.csv")
 
 print("Dataset Shape:", df.shape)
 
